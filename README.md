@@ -14,7 +14,8 @@ This module depends upon basic knowledge of terminal, React, HTML, and CSS.
 This app is deployed on vercel, but if you want to run in locally, first clone the repo.
 
 
-git clone github.com/shreshiv123/Productivo
+git clone 
+github.com/shreshiv123/Productivo
 
 
 Then install the dependencies:
