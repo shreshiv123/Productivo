@@ -8,29 +8,30 @@ With Produktivo, you have access to efficient set of tools that will help you cr
 With a chill musical environment and to-do list right at your sight you can get to work and eliminate all distractions. Additionally, we understand the need of time management for productivity. That's why we have incorporated a timer feature into our website. 
 
 Experience the synergy of ambient music, task management, and disciplined work sessions.
+
 ## Install
 
 This module depends upon basic knowledge of terminal, React, HTML, and CSS.
 This app is deployed on vercel, but if you want to run in locally, first clone the repo.
 
-
-git clone 
-github.com/shreshiv123/Productivo
-
+```
+git clone github.com/shreshiv123/Productivo
+```
 
 Then install the dependencies:
-
+```
 cd Produktivo
 npm install
-
+```
 
 You can run it using:
 
-
+```
 npm start
-
+```
 
 ## Authors
 
-1) Shreya Singh
-2) Tripti Tiwari
+1) SHREYA SINGH
+2) TRIPTI TIWARI
+
